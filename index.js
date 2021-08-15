@@ -1,4 +1,4 @@
-const snakeToCamel = (objectToConvert) => {
+function snakeToCamel(objectToConvert) {
   if (typeof objectToConvert !== 'string') {
     throw new Error('Provided object is not a string');
   }

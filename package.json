@@ -18,6 +18,11 @@
     "PascalCase",
     "kebab-case"
   ],
+  "types": "./types/index.d.ts",
+  "files": [
+    "index.js",
+    "types/index.d.ts"
+  ],
   "author": "Samarth Kulkarni",
   "license": "ISC",
   "bugs": {
