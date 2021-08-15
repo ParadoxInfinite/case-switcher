@@ -1,5 +1,5 @@
 {
-  "name": "case-switcher",
+  "name": "@paradoxinfinite/case-switcher",
   "version": "0.0.1",
   "description": "A simple package to switch between multiple case standards effortlessly.",
   "main": "index.js",
