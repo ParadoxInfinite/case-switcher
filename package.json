@@ -24,7 +24,7 @@
     "types/index.d.ts"
   ],
   "author": "Samarth Kulkarni",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ParadoxInfinite/case-switcher/issues"
   },
