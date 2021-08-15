@@ -1,0 +1,30 @@
+{
+  "name": "case-switcher",
+  "version": "0.0.1",
+  "description": "A simple package to switch between multiple case standards effortlessly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParadoxInfinite/case-switcher.git"
+  },
+  "keywords": [
+    "case",
+    "camelCase",
+    "snake_case",
+    "convert",
+    "PascalCase",
+    "kebab-case"
+  ],
+  "author": "Samarth Kulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParadoxInfinite/case-switcher/issues"
+  },
+  "homepage": "https://github.com/ParadoxInfinite/case-switcher#readme",
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
+}
