@@ -1,4 +1,4 @@
-# case-switcher
+# convert-case
 A simple package to switch between multiple case standards effortlessly.
 
 ######  Note: This is still under active development, keep an eye out for new features!
@@ -8,15 +8,15 @@ A simple package to switch between multiple case standards effortlessly.
 ## Installation and Usage:
 1. Run the following to install the package
     ```sh
-    npm install case-switcher
+    npm install convert-case
     # OR
-    npm i case-switcher
+    npm i convert-case
     ```
 2. Import the package as
     ```js
-    const caseSwitcher = require('case-switcher');
+    const caseSwitcher = require('convert-case');
     // OR
-    import caseSwitcher from 'case-switcher';
+    import caseSwitcher from 'convert-case';
     ```
 3. Use one of the functions after the import
     ```js
