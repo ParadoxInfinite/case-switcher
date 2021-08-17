@@ -1,4 +1,4 @@
-# convert-case
+# convert-case [![Unit Tests](https://github.com/ParadoxInfinite/convert-case/actions/workflows/node.js.yml/badge.svg)](https://github.com/ParadoxInfinite/convert-case/actions/workflows/node.js.yml) [![GitHub version](https://badge.fury.io/gh/paradoxinfinite%2Fconvert-case.svg)](https://badge.fury.io/gh/paradoxinfinite%2Fconvert-case) [![npm version](https://badge.fury.io/js/%40paradoxinfinite%2Fconvert-case.svg)](https://badge.fury.io/js/%40paradoxinfinite%2Fconvert-case)
 A simple package to switch between multiple case standards effortlessly.
 
 ######  Note: This is still under active development, keep an eye out for new features!
