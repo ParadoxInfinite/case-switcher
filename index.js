@@ -107,7 +107,6 @@ function pascalToKebab(objectToConvert) {
   }
   let finalString = '';
   for (i in objectToConvert) {
-    console.log(finalString, i)
     if (objectToConvert[i] === objectToConvert[i].toUpperCase()){
       if (parseInt(i) === 0) {
         finalString += objectToConvert[i].toLowerCase();
