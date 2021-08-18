@@ -8,6 +8,7 @@ A simple package to switch between multiple case standards effortlessly.
 ######  Note: This is still under active development, keep an eye out for new features!
 
 ---
+
 ### Important note
 
 While using the object related functions, make sure your object is not polluted with mixed cases for keys.
@@ -34,7 +35,9 @@ Errors, other than validations, are no longer thrown but `console.error`ed. So, 
     console.log(camelCaseString);
     // Outputs: helloWorld
     ```
+
 ---
+
 ## Functions
 
 1. [snakeToCamel()](#snakeToCamel)
@@ -61,6 +64,7 @@ Errors, other than validations, are no longer thrown but `console.error`ed. So, 
 22. [objKebabToPascal()](#objKebabToPascal)
 23. [objKebabToSnake()](#objKebabToSnake)
 24. [objKebabToCamel()](#objKebabToCamel)
+
 ---
 
 ## Contributing
@@ -75,6 +79,8 @@ Errors, other than validations, are no longer thrown but `console.error`ed. So, 
 
 4. **Documentation:**
     Documentation and examples are also an amazing way to contribute, so if you notice any mistakes or want to add more content to the docs, you are more than welcome to!
+
+---
 
 ## Examples
 All examples assume you've installed and imported the package by following [this](#Installation-and-Usage).
