@@ -5,6 +5,13 @@ A simple package to switch between multiple case standards effortlessly.
 
 ---
 
+## Important note:
+
+While using the object related functions, make sure your object is not polluted with mixed cases for keys.
+Errors, other than validations, are no longer thrown but `console.error`ed. So, please be sure to check (error) logs before raising a bug on this.
+
+---
+
 ## Installation and Usage:
 1. Run the following to install the package
     ```sh
