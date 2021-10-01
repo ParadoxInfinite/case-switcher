@@ -19,15 +19,15 @@ Errors, other than validations, are no longer thrown but `console.error`ed. So, 
 ## Installation and Usage
 1. Run the following to install the package
     ```sh
-    npm install convert-case
+    npm install @paradoxinfinite/convert-case
     # OR
-    npm i convert-case
+    npm i @paradoxinfinite/convert-case
     ```
 2. Import the package as
     ```js
-    const convertCase = require('convert-case');
+    const convertCase = require('@paradoxinfinite/convert-case');
     // OR
-    import convertCase from 'convert-case';
+    import convertCase from '@paradoxinfinite/convert-case';
     ```
 3. Use one of the functions after the import
     ```js
