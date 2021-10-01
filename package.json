@@ -1,6 +1,6 @@
 {
   "name": "@paradoxinfinite/convert-case",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple package to switch between multiple case standards effortlessly.",
   "main": "index.js",
   "scripts": {
