@@ -16,19 +16,19 @@ Errors, other than validations, are no longer thrown but `console.error`ed. So, 
 ## Installation and Usage:
 1. Run the following to install the package
     ```sh
-    npm install convert-case
+    npm install @paradoxinfinite/convert-case
     # OR
-    npm i convert-case
+    npm i @paradoxinfinite/convert-case
     ```
 2. Import the package as
     ```js
-    const caseSwitcher = require('convert-case');
+    const convertCase = require('@paradoxinfinite/convert-case');
     // OR
-    import caseSwitcher from 'convert-case';
+    import convertCase from '@paradoxinfinite/convert-case';
     ```
 3. Use one of the functions after the import
     ```js
-    const camelCaseString = caseSwitcher.snakeToCamel('hello_world');
+    const camelCaseString = convertCase.snakeToCamel('hello_world');
     console.log(camelCaseString);
     // Outputs: helloWorld
     ```
